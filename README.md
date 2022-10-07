@@ -1,7 +1,5 @@
 # Hi 😄
 
-## Who I am
-
 I'm Rémi, I'm 29 (as of October 2022). I studied mathematics and have been developing fun stuff on the web as a hobby since I was 12.
 
 ## What I code with
