@@ -1,4 +1,4 @@
-# Hi 😄
+# Hello 😄
 
 I'm Rémi, I'm 29. I studied mathematics and have been developing stuff on the web as a hobby since I was 12. Wanting to share my love for gaming, and most particularly Pokémon, was what motivated me to make my first website. Since then, I've been creating whatever comes to my mind (mostly when I'm trying to fall asleep). Take a look around ✨
 
