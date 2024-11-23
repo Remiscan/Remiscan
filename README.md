@@ -1,4 +1,4 @@
-Hi! 😄 I'm Rémi. I studied mathematics, but I have been developing stuff on the web as a hobby since 2005. Wanting to share my love for video games, and most particularly Pokémon, is what inspired me to make my first website. Since then, I've been working on many personal projects — mostly for fun — and that even led to me getting a job in the field. Check out my repos to see what I made!
+Hi! 😄 I'm Rémi. I studied mathematics, but I have been developing stuff on the web as a hobby since 2005. Wanting to share my love for video games, and most particularly Pokémon, is what inspired me to make my first website. Since then, I've been working on many personal projects — mostly for fun — and that even led to me getting a job as a web developer. Check out my repos to see what I made!
 
 ## What my personal projects are made with
 
